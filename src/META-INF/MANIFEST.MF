@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-Version: 1.0.0
+Bundle-Name: Core
+Bundle-ManifestVersion: 2
+Bundle-Description: CNENDATA
+Bundle-SymbolicName: com.cnendata.gsinfo.core
+Export-Package: com.cnendata.gsinfo.core
+
